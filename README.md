@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=250&section=header&text=XsaTi4&fontSize=80&animation=fadeIn&fontAlignY=38&desc=HARDCORE%20DEVELOPER&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=250&section=header&text=XsaTi4&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=51&descAlign=50" />
 </p>
 
 <p align="center">
@@ -61,8 +61,4 @@
   <a href="https://t.me/xsati4">
     <img src="https://img.shields.io/badge/Telegram-@xsati4-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:7aa2f7&height=100&section=footer&text=Keep%20Coding%20🚀&fontSize=20" />
 </p>
