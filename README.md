@@ -58,7 +58,9 @@
 
 ### 🤝 Connect with me
 <p align="center">
-<a href="https://t.me/xsati4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" /></a>
+  <a href="https://t.me/xsati4" target="blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
