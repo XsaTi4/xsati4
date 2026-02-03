@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Developing+future+solutions...;Learning+new+technologies;Building+modern+web+apps;Always+improving...;Let's+build+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Stradaju+hujnej;em+pelmeni;delaju+vsjo+krome+raboti;dajte+deneg" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,19 +16,7 @@
 ---
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://t.me/xsati4">
-          <img src="https://t.me/i/userpic/320/xsati4.jpg" width="150px" style="border-radius:50%" />
-        </a><br>
-        <b>Telegram Avatar</b>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=XsaTi4&theme=tokyonight&no-bg=true&margin-w=15" width="400" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=XsaTi4&theme=tokyonight&no-bg=true&margin-w=15" width="100%" />
 </div>
 
 ---
@@ -43,7 +31,11 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Detailed Stats
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XsaTi4&theme=tokyonight" width="100%" />
+</div>
+
 <div align="center">
   <table border="0">
     <tr>
@@ -67,6 +59,18 @@
 ### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=XsaTi4&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🎮 Mini Game: Connect Four
+<p align="center">
+  <i>Click a column to make a move!</i><br>
+  <a href="https://github.com/marcusolsson/github-readme-connect-four/blob/main/README.md">
+    <img src="https://raw.githubusercontent.com/marcusolsson/github-readme-connect-four/main/example.png" width="400px" />
+  </a>
+  <br>
+  <b><a href="https://github.com/marcusolsson/github-readme-connect-four">Play on the original repo!</a></b>
 </p>
 
 ---
