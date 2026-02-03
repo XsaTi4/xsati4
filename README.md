@@ -10,15 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=XsaTi4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
-
-### 🚀 About Me
-I am a passionate developer who loves building things that live on the internet. My interest in programming started when I realized the power of automation and how code can solve real-world problems.
-
-- 🔭 I’m currently working on improving my skills in modern web technologies.
-- 🌱 I’m currently learning **Advanced Backend Architectures**.
-- 👯 I’m looking to collaborate on **Open Source** projects.
-- ⚡ Fun fact: I prefer **Dark Mode** for everything!
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=XsaTi4&theme=tokyonight&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
 
 ---
 
@@ -31,9 +25,18 @@ I am a passionate developer who loves building things that live on the internet.
 
 ---
 
+### 🖼 Gallery
+<p align="center">
+  <img src="assets/durov.jpg" width="32%" />
+  <img src="assets/fear_women.jpg" width="32%" />
+  <img src="assets/ram.jpg" width="32%" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XsaTi4&show_icons=true&theme=tokyonight" alt="XsaTi4's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XsaTi4&show_icons=true&theme=tokyonight&count_private=true" alt="XsaTi4's GitHub stats" />
 </p>
 
 <p align="center">
@@ -55,13 +58,9 @@ I am a passionate developer who loves building things that live on the internet.
 
 ### 🤝 Connect with me
 <p align="center">
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://t.me/xsati4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" /></a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
+  <b>Telegram: <a href="https://t.me/xsati4">@xsati4</a></b>
 </p>
