@@ -1,61 +1,66 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=300&section=header&text=XsaTi4&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Stradaju+hujnej;em+pelmeni;delaju+vsjo+krome+raboti;dajte+deneg" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=XsaTi4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Stradaju+hujnej;em+pelmeni;delaju+vsjo+krome+raboti;dajte+deneg" alt="Typing SVG" />
+  <img src="https://github-profile-trophy.vercel.app/?username=XsaTi4&theme=tokyonight&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
-
-<p align="center">
-  <a href="https://t.me/xsati4">
-    <img src="https://img.shields.io/badge/Telegram-@xsati4-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=XsaTi4&label=Profile%20views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XsaTi4&theme=tokyonight&margin-w=15&no-bg=true" width="100%" />
-</div>
 
 ---
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,go,rust,java,html,css,react,nextjs,nodejs,express,vite,threejs,mongodb,postgres,docker,git,linux,aws,figma,tailwind,postman,graphql,kubernetes,terraform,bash" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,rust,java,html,css,react,nextjs,nodejs,express,mongodb,postgres,docker,git,linux,aws,figma,tailwind,threejs,bash,vite,postman,graphql,kubernetes,terraform" />
 </p>
 
 ---
 
-### 📊 Statistics
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=XsaTi4&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XsaTi4&layout=compact&theme=tokyonight&hide_border=true" height="195px" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XsaTi4&theme=tokyonight&hide_border=true" width="100%" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XsaTi4&theme=tokyo-night&hide_border=true" width="100%" />
-</div>
-
----
-
 ### 🖼 Gallery
-<div align="center">
-  <img src="assets/durov.jpg" height="250px" />
-  <img src="assets/fear_women.jpg" height="250px" />
-  <img src="assets/ram.jpg" height="250px" />
-</div>
+<p align="center">
+  <img src="assets/durov.jpg" width="32%" />
+  <img src="assets/fear_women.jpg" width="32%" />
+  <img src="assets/ram.jpg" width="32%" />
+</p>
 
 ---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XsaTi4&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:7aa2f7&height=100&section=footer&text=Keep%20Coding%20🚀&fontSize=20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XsaTi4&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XsaTi4&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XsaTi4&theme=tokyo-night" />
+</p>
+
+---
+
+### 🤝 Connect with me
+<p align="center">
+  <a href="https://t.me/xsati4" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Telegram: <a href="https://t.me/xsati4">@xsati4</a></b>
 </p>
