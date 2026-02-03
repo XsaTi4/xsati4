@@ -16,12 +16,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XsaTi4&theme=tokyonight&no-bg=true&margin-w=15" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=XsaTi4&theme=tokyonight&margin-w=15" width="100%" />
 </div>
 
 ---
 
-### 🛠 My Tech Stack
+### 🛠 Tech Stack
 <p align="center">
   <b>Languages & Frameworks</b><br>
   <img src="https://skillicons.dev/icons?i=js,ts,py,go,rust,java,html,css,react,nextjs,nodejs,express,vite,threejs" /><br><br>
@@ -31,24 +31,20 @@
 
 ---
 
-### 📊 Detailed Stats
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XsaTi4&theme=tokyonight" width="100%" />
-</div>
-
+### 📊 GitHub Stats
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=XsaTi4&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=XsaTi4&show_icons=true&theme=tokyonight&count_private=true" height="195px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XsaTi4&layout=compact&theme=tokyonight&hide_border=true" height="195px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XsaTi4&layout=compact&theme=tokyonight" height="195px" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=XsaTi4&theme=tokyonight&hide_border=true" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=XsaTi4&theme=tokyonight" width="100%" />
       </td>
     </tr>
   </table>
@@ -58,24 +54,19 @@
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XsaTi4&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XsaTi4&theme=tokyo-night" width="100%" />
 </p>
 
 ---
 
-### 🎮 Mini Game: Connect Four
+### 🐍 Contribution Snake (Mini-Game)
 <p align="center">
-  <i>Click a column to make a move!</i><br>
-  <a href="https://github.com/marcusolsson/github-readme-connect-four/blob/main/README.md">
-    <img src="https://raw.githubusercontent.com/marcusolsson/github-readme-connect-four/main/example.png" width="400px" />
-  </a>
-  <br>
-  <b><a href="https://github.com/marcusolsson/github-readme-connect-four">Play on the original repo!</a></b>
+  <img src="https://raw.githubusercontent.com/XsaTi4/XsaTi4/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-### 🖼 My Gallery
+### 🖼 Gallery
 <div align="center">
   <table border="0">
     <tr>
@@ -98,8 +89,6 @@
   <a href="https://t.me/xsati4">
     <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <br>
-  <b>Click the badge above to chat with me!</b>
 </p>
 
 <p align="center">
