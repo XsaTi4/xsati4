@@ -1,0 +1,14 @@
+name: Connect Four
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.body, 'connect-four-')
+    steps:
+      - uses: marcusolsson/github-readme-connect-four@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
