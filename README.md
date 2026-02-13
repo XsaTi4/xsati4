@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=250&section=header&text=XsaTi4&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=250&section=header&text=XsaTi4&fontSize=80&animation=twinkling&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=51&descAlign=50" />
 </p>
 
 <p align="center">
@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XsaTi4&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy-kappa.vercel.app/?username=XsaTi4&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
-
+<details open>
+<summary><h3 style="display: inline-block;">🛠 Tech Stack</h3></summary>
 <p align="center">
   <b>Languages</b><br>
   <img src="https://skillicons.dev/icons?i=js,ts,py,go,rust,java,bash" /><br><br>
@@ -26,6 +26,7 @@
   <b>Backend, Tools & DevOps</b><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,docker,git,linux,aws,figma,postman,graphql,kubernetes,terraform" />
 </p>
+</details>
 
 ---
 
@@ -43,16 +44,16 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=XsaTi4&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195px" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=XsaTi4&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XsaTi4&layout=compact&theme=tokyonight&hide_border=true" height="195px" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XsaTi4&layout=compact&theme=tokyonight&hide_border=true" height="195px" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XsaTi4&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=XsaTi4&theme=tokyonight&hide_border=true" width="100%" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XsaTi4&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XsaTi4&theme=tokyo-night&area=true&point=true&hide_border=true" width="100%" />
 </div>
 
 ---
